@@ -1,0 +1,165 @@
+from,to
+Dualcaster Mage,Heat Shimmer
+Dualcaster Mage,Twinflame
+"Krenko, Mob Boss",Thornbite Staff
+"Krenko, Mob Boss",Skirk Prospector
+Thornbite Staff,Skirk Prospector
+Living Death,Ashnod's Altar
+Dualcaster Mage,Ashnod's Altar
+Dualcaster Mage,Living Death
+Felidar Guardian,Portcullis
+Dualcaster Mage,Living Death
+Dualcaster Mage,Viscera Seer
+Living Death,Viscera Seer
+Dualcaster Mage,Living Death
+Dualcaster Mage,Phyrexian Altar
+Living Death,Phyrexian Altar
+"Krenko, Mob Boss",Ashnod's Altar
+"Krenko, Mob Boss",Sword of the Paruns
+Ashnod's Altar,Sword of the Paruns
+"Krenko, Mob Boss",Impact Tremors
+Sword of the Paruns,Impact Tremors
+Ashnod's Altar,Impact Tremors
+Goblin Sharpshooter,Gorgon's Head
+Myr Galvanizer,Sculpting Steel
+Sculpting Steel,Palladium Myr
+Myr Galvanizer,Palladium Myr
+"Dargo, the Shipwrecker",Phyrexian Altar
+"Dargo, the Shipwrecker",Thermopod
+"Dargo, the Shipwrecker",Grapeshot
+Phyrexian Altar,Grapeshot
+Thermopod,Grapeshot
+Thermopod,Impact Tremors
+Phyrexian Altar,Impact Tremors
+Blazing Sunsteel,Brash Taunter
+Reverberate,Dual Strike
+Dual Strike,Increasing Vengeance
+Rakka Mar,Thornbite Staff
+Rakka Mar,Phyrexian Altar
+Thornbite Staff,Phyrexian Altar
+Rakka Mar,Thermopod
+Thornbite Staff,Thermopod
+Rakka Mar,Impact Tremors
+Phyrexian Altar,Impact Tremors
+Phyrexian Altar,Warstorm Surge
+Rakka Mar,Warstorm Surge
+Thornbite Staff,Warstorm Surge
+Thermopod,Warstorm Surge
+Revolutionist,Twinflame
+Revolutionist,Priest of Urabrask
+Revolutionist,Reverberate
+Twinflame,Priest of Urabrask
+Twinflame,Priest of Urabrask
+Priest of Urabrask,Reverberate
+Increasing Vengeance,Revolutionist
+Increasing Vengeance,Twinflame
+Increasing Vengeance,Priest of Urabrask
+Storm-Kiln Artist,Haze of Rage
+Void Mirror,Possibility Storm
+Myr Galvanizer,Cursed Mirror
+Myr Galvanizer,Palladium Myr
+Cursed Mirror,Palladium Myr
+Blazing Sunsteel,Stuffy Doll
+Heartless Hidetsugu,Bitter Feud
+Pili-Pala,Careful Cultivation
+Goblin Sharpshooter,Twinflame
+Goblin Sharpshooter,Elemental Mastery
+Twinflame,Elemental Mastery
+Goblin Sharpshooter,Heat Shimmer
+"Jaxis, the Troublemaker",Thornbite Staff
+Heat Shimmer,Elemental Mastery
+"Jaxis, the Troublemaker",Phyrexian Altar
+"Jaxis, the Troublemaker",Thermopod
+Goblin Sharpshooter,Heat Shimmer
+Goblin Sharpshooter,Elemental Mastery
+Heat Shimmer,Elemental Mastery
+"Jaxis, the Troublemaker",Thornbite Staff
+Phyrexian Altar,"Jaxis, the Troublemaker"
+Zealous Conscripts,"Jaxis, the Troublemaker"
+Zealous Conscripts,Phyrexian Altar
+"Jaxis, the Troublemaker",Thornbite Staff
+Blazing Sunsteel,Sculpting Steel
+Elemental Mastery,Chained Brute
+Elemental Mastery,Ashnod's Altar
+Chained Brute,Ashnod's Altar
+Chained Brute,Phyrexian Altar
+Elemental Mastery,Phyrexian Altar
+Chained Brute,Thermopod
+Elemental Mastery,Thermopod
+Zada's Commando,Storm-Kiln Artist
+Zada's Commando,Elvish Fury
+Storm-Kiln Artist,Elvish Fury
+Myr Galvanizer,Clock of Omens
+Myr Galvanizer,Palladium Myr
+Clock of Omens,Palladium Myr
+Underworld Breach,Burning Inquiry
+Underworld Breach,Storm-Kiln Artist
+Burning Inquiry,Storm-Kiln Artist
+"Toggo, Goblin Weaponsmith",Scaretiller
+"Toggo, Goblin Weaponsmith",Clock of Omens
+"Toggo, Goblin Weaponsmith",Maestros Theater
+Scaretiller,Clock of Omens
+Scaretiller,Clock of Omens
+Clock of Omens,Maestros Theater
+Clock of Omens,Obscura Storefront
+Scaretiller,Obscura Storefront
+"Toggo, Goblin Weaponsmith",Obscura Storefront
+Goblin Bombardment,Thornbite Staff
+Goblin Bombardment,"Krenko, Mob Boss"
+Viscera Seer,Thornbite Staff
+Viscera Seer,"Krenko, Mob Boss"
+Phyrexian Altar,Thornbite Staff
+Phyrexian Altar,"Krenko, Mob Boss"
+Ashnod's Altar,Thornbite Staff
+Ashnod's Altar,"Krenko, Mob Boss"
+Thermopod,Thornbite Staff
+Thermopod,"Krenko, Mob Boss"
+"Toggo, Goblin Weaponsmith",Obscura Storefront
+Scaretiller,Obscura Storefront
+"Toggo, Goblin Weaponsmith",Maestros Theater
+Scaretiller,Maestros Theater
+Nim Deathmantle,Priest of Urabrask
+Nim Deathmantle,Ashnod's Altar
+Ashnod's Altar,Priest of Urabrask
+Nim Deathmantle,"Nadier, Agent of the Duskenel"
+"Nadier, Agent of the Duskenel",Ashnod's Altar
+Nim Deathmantle,Whirler Rogue
+Whirler Rogue,Ashnod's Altar
+Nim Deathmantle,Genesis Chamber
+Genesis Chamber,Ashnod's Altar
+Nim Deathmantle,Palladium Myr
+Nim Deathmantle,Thousand-Year Elixir
+Thousand-Year Elixir,Palladium Myr
+Palladium Myr,Ashnod's Altar
+Thousand-Year Elixir,Ashnod's Altar
+Nim Deathmantle,Scampering Scorcher
+Scampering Scorcher,Ashnod's Altar
+Nim Deathmantle,Doomed Traveler
+Doomed Traveler,Ashnod's Altar
+Nim Deathmantle,Eyeblight Cullers
+Eyeblight Cullers,Ashnod's Altar
+Nim Deathmantle,Phyrexian Altar
+Eyeblight Cullers,Phyrexian Altar
+Storm-Kiln Artist,Haze of Rage
+Storm-Kiln Artist,"Zada, Hedron Grinder"
+Storm-Kiln Artist,Elvish Fury
+"Zada, Hedron Grinder",Elvish Fury
+Storm-Kiln Artist,Underworld Breach
+Storm-Kiln Artist,Burning Inquiry
+Underworld Breach,Burning Inquiry
+Nim Deathmantle,Beetleback Chief
+Beetleback Chief,Ashnod's Altar
+Runaway Steam-Kin,Phyrexian Altar
+Runaway Steam-Kin,"Squee, the Immortal"
+Runaway Steam-Kin,Hazoret's Monument
+Hazoret's Monument,Phyrexian Altar
+Hazoret's Monument,"Squee, the Immortal"
+Genesis Chamber,Phyrexian Altar
+Genesis Chamber,"Squee, the Immortal"
+Runaway Steam-Kin,Skirk Prospector
+Hazoret's Monument,Skirk Prospector
+Genesis Chamber,Skirk Prospector
+Runaway Steam-Kin,Grinning Ignus
+Runaway Steam-Kin,"Dargo, the Shipwrecker"
+"Dargo, the Shipwrecker",Goblin Bombardment
+Runaway Steam-Kin,Goblin Bombardment
