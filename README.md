@@ -1,4 +1,4 @@
-# association-network-in-MtG
+# Association-network-in-MtG
 association network for MtG combo cards
 
 
